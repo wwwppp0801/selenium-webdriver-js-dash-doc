@@ -1,0 +1,16 @@
+{
+  "name": "selenium-webdriver-js.docset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "types.js",
+  "dependencies": {
+    "selenium-webdriver": "^2.45.1",
+    "sqlite3": "^3.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
